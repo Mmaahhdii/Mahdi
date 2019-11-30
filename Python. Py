@@ -1,0 +1,6 @@
+old = int(input(old??)) 
+if old < 50:
+    print ('🎂Young' )
+else:
+    print ('Old man   ohhhh' )
+ 
